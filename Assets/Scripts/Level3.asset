@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: daeb29444ef843649be7998c9c908adb, type: 3}
+  m_Name: Level3
+  m_EditorClassIdentifier: 
+  Name: 
+  BoardLayout:
+    rows:
+    - row: 0000000000000000000000000000000000000000
+    - row: 0000000000000000000000000000000000000000
+    - row: 0000000000000000000000000000000000000000
+    - row: 0100000001000000000000000100000001000000
+    - row: 0000000000000000000000000000000000000000
+    - row: 0000000000000000000000000000000000000000
+    - row: 0000000000000000000000000000000000000000
+  BackgroundSprite:
+  - {fileID: 21300000, guid: 8a2da9a2bed8112458cc06ccfbaff541, type: 3}
+  - {fileID: 21300000, guid: 5efea752f682edf42800232d77af0e82, type: 3}
+  TileSprite:
+  - {fileID: 21300000, guid: 7cd8fc1293f99d249ba1656964a27a0c, type: 3}
+  - {fileID: 21300000, guid: abdcf99b31d4e4d40a597377c6a6b02a, type: 3}
+  - {fileID: 21300000, guid: 6bccdc6c9235c6c4eb7b80f02e447f49, type: 3}
+  - {fileID: 21300000, guid: c35b095b64349b74cbf95c1f09dde940, type: 3}
+  - {fileID: 21300000, guid: 51194538f66df724a9ebf35429dcaed5, type: 3}
+  - {fileID: 21300000, guid: 7fbb9bed30a11eb428335d672d243c79, type: 3}
